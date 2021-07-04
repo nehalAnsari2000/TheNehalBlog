@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "My first blog",
+      "body": "Hii,\nThis is my 1st blog hope you guys like it\nI have a lot of work here.\nSo please support my work",
+      "author": "Nehal",
+      "id": 1
+    },
+    {
+      "title": "My Second blog",
+      "body": "Hii,\nThis is my 2nd blog hope you guys like it\nI have a lot of work here.\nSo please support my work",
+      "author": "Rehan",
+      "id": 2
+    }
+  ]
+}
